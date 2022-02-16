@@ -1,0 +1,26 @@
+"============================================================
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+" SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK SPELL CHECK
+"============================================================
+
+noremap <leader>cp :normal! mm[s1z='m<cr>
+noremap <leader>br :set spell! spelllang=pt<CR>
+noremap <leader>en :set spell! spelllang=en<CR>
+" ]s ............. vai para a próxima palavra
+" zg ............. adiciona palavra
+" zw ............. retira palavra
+" z= ............. sugestões
+" zug ........... contrario de zu
+" zuw ........... contrario de zw
+
